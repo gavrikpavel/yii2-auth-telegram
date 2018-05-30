@@ -1,7 +1,7 @@
 Two-factor authentication with Yii2 and Telegram
 ------------------------------------------------
 
-![Screen recorder authentication](https://github.com/gavrikpavel/yii2-auth-telegram/Example.gif)
+![Screen recorder authentication](https://github.com/gavrikpavel/yii2-auth-telegram/blob/master/Example.gif)
 
 ### About
 
