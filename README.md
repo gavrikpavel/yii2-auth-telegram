@@ -3,7 +3,7 @@ Two-factor authentication with Yii2 and Telegram
 
 ![Screen recorder authentication](https://github.com/gavrikpavel/yii2-auth-telegram/blob/master/Example.gif)
 
-### About
+## About
 
 This code allows you to add two-factor authentication to your site using API Telegram to confirm registration.
 Just put your @nickname.
@@ -13,7 +13,7 @@ The structure of the project didn't change, except
 * components/bot      contains minimal Telegram bot API
 * The controller with the business logic of authorization is AuthController
 
-### Preparation
+## Preparation
 
 **Add necessary requirements to the composer**
 ```
